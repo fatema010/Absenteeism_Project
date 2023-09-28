@@ -22,14 +22,14 @@ To run this project, you will need the following dependencies:
 
 - Utilized the model's methods for making predictions and customizing as needed.
 
-- Additionally, created a logistic regression model:
+- Additionally, I created a logistic regression model:
    - Prepared the absenteeism dataset.
    - Split the dataset into training and testing sets.
    - Created and trained the logistic regression model.
    - Made predictions on the testing data.
 
 ## Results
-Based on the analysis, the most important factors for excessive absenteeism include:
+Based on the analysis, the most critical factors for excessive absenteeism include:
 - The reasons for absence, with poisoning being the top reason.
 - Transportation expense.
 - Having children and pets.
@@ -41,12 +41,6 @@ Key insights:
 - Standardization improves accuracy but sacrifices interpretability.
 - Consider both standardized and non-standardized models for a balanced understanding.
 - The intercept adjusts predictions but lacks a specific meaning.
-
-## Contributing
-Start by forking this repository to your own GitHub account.
-
-## License
-This project is licensed under the MIT License.
 
 ## Contact Information
 For questions or feedback, please contact [fatema.sorna@gmail.com].
