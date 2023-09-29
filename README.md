@@ -27,6 +27,10 @@ To run this project, you will need the following dependencies:
    - Split the dataset into training and testing sets.
    - Created and trained the logistic regression model.
    - Made predictions on the testing data.
+   - 
+## Visualization and Database Connection
+- Utilized Tableau for data visualization.
+- Established a connection to a database using SQL.
 
 ## Results
 Based on the analysis, the most critical factors for excessive absenteeism include:
